@@ -23,6 +23,10 @@ React Native
 - Ürünlerin sepete eklenmesi ve çıkartılması.
 - Sepet tutarının gösterilmesi.
 
+## API
+
+Kullanılan API: Fake Store API
+
 ## Başlangıç
 
 Bu depoyu yerel makinenizde klonlayın.
