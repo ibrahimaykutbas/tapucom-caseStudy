@@ -32,7 +32,7 @@ Kullanılan API: Fake Store API
 Bu depoyu yerel makinenizde klonlayın.
 
 ```
-git clone https://github.com/ibrahimaykutbas/caseStudy.git
+git clone https://github.com/ibrahimaykutbas/tapucom-caseStudy.git
 ```
 
 ### Kullanım
