@@ -40,7 +40,7 @@ git clone https://github.com/ibrahimaykutbas/caseStudy.git
 Projeyi klonladıktan sonra kullanmak için:
 
 ```
-cd patika-react-native/caseStudy
+cd patika-react-native/tapucom-caseStudy
 cd .
 ```
 
